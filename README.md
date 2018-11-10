@@ -2,7 +2,7 @@
 <p>
   <a href="https://travis-ci.org/harmankang/Lab62"><img src="https://travis-ci.org/harmankang/Lab62.svg?branch=master"></a>
   <a href="https://github.com/harmankang/Lab62/issues"><img src="https://img.shields.io/github/issues/harmankang/Lab62.svg"></a>
-  <a href="https://harmankang.github.io/web-demos/Lab62/Lab62.html"><img src="https://img.shields.io/badge/try-demo-blue.svg"></a>
+  <a href="https://harmankang.github.io/Lab62"><img src="https://img.shields.io/badge/try-demo-blue.svg"></a>
   <a href="https://github.com/harmankang/Lab62/blob/master/LICENSE"><img src="https://img.shields.io/github/license/harmankang/Lab62.svg"></a>
 </p>
 
