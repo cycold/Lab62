@@ -65,7 +65,7 @@ I looked into Base64 encoding, but it gives `/`'s and that is not acceptable for
 
 #### More reading
 
-I explain the origin of this project in more detail in my blog post, [Human Readable IDs](https://h13g.com/read?id=28).
+I explain the origin of this project in more detail in my blog post, [Human Readable IDs](https://h13g.com/note?id=19).
 
 ### Warning
 
